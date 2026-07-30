@@ -27,7 +27,7 @@
 	- background-color - used to set the color of the background
 	- **color systems**
 		- rgb - rgb(red, green, blue)
-		- hex - #hexcode
+		- hex - `#hexcode` ex: `#1a1a1a1a`
 	- * - universal selector (*{})
 	- element selector - like h1, p etc
 	- we can give id to elements in html and style the group of elements by id (id{})
