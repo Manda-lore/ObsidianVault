@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/React Crash Course.md",
-                "mode": "source",
+                "file": "journals/2026-07-30.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React Crash Course"
+              "title": "2026-07-30"
             }
           }
         ]
@@ -175,8 +175,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-ghost",
+          "title": "calendar"
         }
       }
     ],
@@ -191,14 +191,15 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "202846a1897a2935",
   "lastOpenFiles": [
-    "journals/2026-07-28.md",
     "pages/React Crash Course.md",
+    "journals/2026-07-28.md",
     "journals/2026-07-30.md"
   ]
 }

@@ -1,17 +1,12 @@
 [
-  "obsidian-style-settings",
-  "obsidian-excalidraw-plugin",
-  "obsidian-tasks-plugin",
   "calendar",
-  "omnisearch",
   "easy-typing-obsidian",
-  "obsidian-outliner",
   "editing-toolbar",
-<<<<<<< HEAD
-  "settings-search",
-  "templater-obsidian",
-  "obsidian-git"
-=======
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "omnisearch",
+  "obsidian-outliner",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
   "templater-obsidian"
->>>>>>> origin/main
 ]
