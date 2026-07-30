@@ -7,7 +7,11 @@
   "easy-typing-obsidian",
   "obsidian-outliner",
   "editing-toolbar",
+<<<<<<< HEAD
   "settings-search",
   "templater-obsidian",
   "obsidian-git"
+=======
+  "templater-obsidian"
+>>>>>>> origin/main
 ]
