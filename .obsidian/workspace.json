@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5718fa6b912fb677",
+        "id": "54bf5bb474ef064f",
         "type": "tabs",
         "children": [
           {
-            "id": "c51cf71bd7458d0c",
+            "id": "f00a9f89978cb2a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/React Crash Course.md",
+                "file": "journals/2026-07-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React Crash Course"
+              "title": "2026-07-28"
             }
           }
         ]
@@ -51,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -203,20 +205,21 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c51cf71bd7458d0c",
+  "active": "f00a9f89978cb2a7",
   "lastOpenFiles": [
-    "pages/MySQL Crash Course.md",
-    "pages/MySQL Crash Course.md",
+    "journals/2026-07-28.md",
+    "journals/2026-07-30.md",
     "pages/React Crash Course.md",
+    "pages/MySQL Crash Course.md",
+    "pages/MySQL Crash Course.md",
     "pages/T.md",
     "templates/Outliner.md",
     "templates",
-    "journals/2026-07-30.md",
     "pages/dummy.md",
-    "journals/2026-07-28.md",
     "pages/Project Ideas.md",
     "2026-07-29.md",
     "assets",
