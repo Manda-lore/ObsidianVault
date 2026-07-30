@@ -1,0 +1,1 @@
+# Empty Asset page to initialize the assets folder in git
