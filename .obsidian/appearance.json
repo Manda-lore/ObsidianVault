@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Iridium",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "bullet-list-live-preview-threading-active",
+    "bullet-list-live-preview-threading-hover"
+  ],
+  "textFontFamily": "Adwaita Sans",
+  "interfaceFontFamily": "Adwaita Sans",
+  "monospaceFontFamily": "Source Code Pro",
+  "accentColor": ""
+}
