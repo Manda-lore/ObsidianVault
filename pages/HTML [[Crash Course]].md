@@ -1,0 +1,81 @@
+- # Introduction
+	- HTML defines the structure for the website
+	- css gives the style to the structures
+	- and js gives the functionality to objects
+	- **html tags** is a container for some content or other html tags
+- # Basic HTML Page
+	- !DOCTYPE html - tells browser you are using html5
+	- html lang = en - root of the document
+	- head - container for the  metadata / objects that doesnot appear on the website
+	- body - container for objects / html tags that appear on the website
+- # Quick Points
+	- html tag is the parent of all tags
+	- most of the html elements have opening and closing tags with content in between
+	- some tags have no content in between like br
+	- use the inspect element / view page source to edit html on the browser
+- # Basic HTML Tags
+	- h1 -> h6 - headings
+	- p - paragraph
+	- a - anchor
+		- href - link
+		- target ="_main"- for new tab
+		- img - for clickable pic
+	- abbr - abbreviation
+	- img - images (src, alt)
+		- height - manipulates height maintaining default aspect ratio
+		- width - manipulates width maintaining default aspect ratio
+	- br - adds line break to the webpage
+	- b,i,u - bold, italic, underline tags
+	- big, small - size tags for text
+	- hr - divides the website with a line
+	- sub, sup - subscript and supercript tags for text
+	- pre - displays text as is with spaces and additional lines
+	- div - add a  full width block with 0 height by default
+	- span - only use the required space
+	- iframe - embed videos, pages, articles onto your webpage
+	- video - shows local video
+- # Page Layout Techniques
+	- semantic  - tags which are initiutive
+	- non-sematic - tags which are not initiutive
+	- using semantic tags are better as it is easily readable and initiutive and using non-sematic tags are also important when need. Use tags as required
+	- sematic tags
+		- header - tag at the top of the body
+		- main - tag at the biddle of the body
+			- section - adds section to the page
+			- article - adds text/article or anything in the page
+			- aside - for content aside main content (ads)
+		- footer - tag at the foot of the body
+- # Lists in HTML
+	- there are two types of listes
+		- ordered (ul for list & li for elements)
+			- uses bullet points
+		- unordered (ol for list & li for elements)
+			- uses numbers
+			- alphabets
+			- roman numbers
+			- etc
+- # Tables in HTML
+	- thead - wraps the table head
+		- captain - displays the caption / title of the table
+	- hbody - wraps the table body
+		- tr - table row
+		- th - table header
+		- td - table data
+- # Form in HTML
+	- forms are used to collect data from the user
+	- use form tag to create form
+	- input - takes input from user
+		- type, placeholders etc
+	- label - it gives user redable name / description for form controls like text fields, checkboxes, radio buttons etc
+		- using label creates accessability for screen readers as they read the content on screen
+	- class & id - are parameters which manipulate objects based on their name / type
+	- textarea - text are is a container which takes text input in a form
+	- select - gives dropdown for an option
+- # Project 1 - Portfolio Website
+- Create a index page for the website
+- add the following pages
+	- education
+	- experience
+	- projects
+	- links to github / linkedin
+	- contact me form in contact me page

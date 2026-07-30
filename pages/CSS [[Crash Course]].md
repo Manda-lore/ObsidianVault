@@ -1,0 +1,145 @@
+- # Introduction
+	- css - cascading style sheets
+	- learn the box model of css
+	- use firefox to test css
+	- **Inline Styling**
+	  ```css
+	  <h1 style="color:red"> Nissi Jacobson </h1>	 
+	  ```
+	- **style tag**
+	  ```css
+	  <style>
+	  h1{
+	  color:red;
+	  }
+	  </style>
+	  ```
+	- **external style sheet**
+		- this is the most used styling in lot of websi
+		- tes which involves using a separate css file to write css code in it
+		- ```HTML
+		  <link rel="stylesheet" href="styles.css">
+		  ```
+	- refer to mdn (mozilla developer notes) website to check the notes for css and html
+	- refer to HTML Tutorial for Beginners - Apna CollegeHashTag-Basic HTML Tags|HTML Tags
+- # Properties of CSS
+	- color - used to set the color of the foreground
+	- background-color - used to set the color of the background
+	- **color systems**
+		- rgb - rgb(red, green, blue)
+		- hex - #hexcode
+	- * - universal selector (*{})
+	- element selector - like h1, p etc
+	- we can give id to elements in html and style the group of elements by id (id{})
+	- class selector - we can use class to multiple elements to style them in group (.class{})
+- # Text Properties
+	- text-align - left, right, center, start, end
+	- text-decoration - underline, overline, line-through, bold, italic
+	- font-weight - lighter, normal, bold, bolder (lighest : darkest = 100 : 900)
+	- font-family - calibri, comic sans etc
+		- generic font families
+			- serif
+			- sans-serif
+			- cursive
+			- fantasy
+			- monospace
+		- specific font families
+		- units in css
+			- absolute units - pixels (px) are used mostly; 1 inch = 96px
+	- font-size - used to change the size of the font
+	- line-height - manages the line height of each line
+	- text-transform - uppercase / lowercase / capitalize
+- # Box Model
+	- Basics **elements** of Box Model in CSS
+		- **Width** - width of the content
+		- **Height** - height of the content
+		- **Border** - a boundary box model is border
+			- border-width - width of the border
+			- border-style - solid or dashed or dotted
+			- border-color - color of the border
+			- border shorthand using **border** property
+				- `border: 2px solid brown`
+			- border-radius - rounds the corner of the box (10px or 50%)
+		- **Padding** - extra space around content is padding
+			- the space btw border and content is padding
+			- padding-left, padding-right, padding-top, padding-bottom
+			- padding is given in pixels and in percentages
+			- a shorthand can be used where values are given in clockwise direction i.e, top->right->bottom->left
+		- **Margin** - space btw boxes is margin
+			- margin-right, margin-left, margin-top, margin-down
+			- a shorthand can be used where values are given in clockwise direction i.e, top->right->bottom->left
+		- Basics **elements** of Box Model in CSS
+	- **Display Property**
+		- display: inline / block / inline-block / none
+			- inline - takes only the space required by the element (no margin/padding)
+			- block - takes full width of the screen
+			- incline-block - similar to inline but has margin and padding for top
+			- none - to remove the element from the document
+		- visibility: the element is hidden and the space alloted is not removed
+- # RGBA - Alpha Channel
+	- decides the opacity of the color
+	- the alpha value is in between 0 to 1
+- # Relative Units in CSS
+	- There are three relative units in CSS
+		- Percentage (%) - size of the element relative to the parent's element
+		- Em (em) - multiple size of the elements based on font size
+			- for font properties it is the multiple of parents properties
+			- for width and other properties it is the multiple of font-properties of itself
+		- Root em (rem) - relative to the font size of root element
+		- other - vh and vw - which are viewport height and vw width
+- # Position
+	- this property sets the how the element is positioned
+		- position - static / relative / absolute / fixed / sticky
+			- static - top, bottom, left, right, z-index properties donot affect the element
+			- relative - relative to the element itself
+			- absolute - relative to its closest parent element
+			- fixed - relative to the browser
+			- sticky - positioned based on the users scroll position
+- # Z-index
+	- defines the hirearchy of overlapping
+	- the greater the z index the more it is shown on top
+	- the lesser the z index the more it is displayed on bottom
+- # Background Image
+	- background-image - sets the image for background
+	- background-size - cover / contain / auto
+- # Flexbox
+	- flexible box layout is a one dimentional layout method for arranging items in rows or columns
+	- flexbox-direction - the direction of items placed in the flexbox
+		- row (default), row-reverse, column, column(reverse)
+	- flex items will try to fit in the container as long as the content supports it
+- ## Flex Properties for Flex Container
+	- justify-content: alignment along the main axis
+	- flex-start / flex-end / center / space-evenly / space-around / space between
+	- flex-wrap - wraps the content throughtout the box
+	- align-items - aligns items in the flexbox
+	- align-content - aligns the content
+- ## Flex Properties for Flex Items
+	- align-self - alignment of items along the cross access
+	- flex-grow - defines how relatively the item should grow
+	- flex-shrink - defines in how relatively the item should shrink
+- # Media Queries
+	- @media(condition){do something} - when the condition meets it does something
+- # CSS Transition
+	- transition allows you to define the transition between two states of the element
+	- transition-property - property you want to transition (font-size, width etc)
+	- transition-duration - duration of the transition
+	- transition-timing-funtion - effects likes ease in, ease out etc
+	- transition-delay - dalays the transition
+	- transition shorthand - property  duration timing-function delay
+- # CSS Transform
+	- applys 2d and 3d transformations to an element
+	- rotate() - rotates the element
+	- scale() - manipulates the size of the element
+	- translate() - moves the element
+	- skew() - fucks the image by the value
+- # CSS Animations
+	- @keyframe name {from - to}
+	- **Animation Properties**
+		- animation-name
+		- animation-duration
+		- animation-timing-function
+		- animation-delay
+		- animation-iteration-count
+		- animation-direction - normal, reverse, alternate, alternate-reverse
+	- animation property shorthand - name duration timing-function delay iteration count direction
+- # CSS video -  https://youtu.be/ESnrn1kAD4E?si=ISxTW9Ost_7SysEN&t=18692

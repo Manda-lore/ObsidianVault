@@ -1,0 +1,70 @@
+- ## Alphabets in German
+	- german-alphabets_1784302984273_0
+- ## Greetings in German
+	- Hallo - Hello
+	- Guten Morgen, Tag, Abend (Morning, Day, Evening)
+	- Tschuss - Bye
+	- Bis Spater - See you later
+	- Auf Wiedersehen - Good bye
+- ## Introductions in German
+	- Ich heise <name> / Ich bin name
+	- Ich Komme aus country (i come from country)
+	- Ich wohne in city (i live in city)
+- ## German Sentence Structure
+	- Subject + verb + object
+	- Ich lerne deutsch (lerne - learn, deutsch - german)
+	- ich trinke wasser (trinke - drink)
+	- ich esse brot (esse - eat, brot - bread)
+- ## Pronouns in German
+	- ich - I
+	- du - you
+	- er, sie, es - he, she, it
+	- wir - we
+	- ihr - you
+	- sie, sie - they, you
+	- Ex
+		- ich bin mude (bin - am, mude - tired)
+		- du lernst deutsch (lernst - learn, deutsch - german)
+		- er hat ein auto - he has a car (hat - has, ein - a, auto - car)
+		- sie ist glucklich - she is happy (ist - is, gluklich - happy)
+		- es ist kalt (kalt - cold)
+		- wir gehen ins kino - we are going to the cinema (gehen - go, kino - movie)
+		- ihr spielt fusball - you all play football (spielt - play, fusball - football)
+		- sie arbeiten hier - they work here (arbeiten - work, hier - here)
+- ## Basic QnA
+	- Q. woher kommst du?
+	  A. ich komme aus india  
+	- Q. was machst du?
+	  A. ich bin student  
+	- Q. Sprichst du deutsch? (do you speak german)
+	  A. ja, ein bisschen (yes, a little bit)  
+- ## Numbers in German
+	- **One to Ten**
+		- 1 - eins
+		- 2 - zwei
+		- 3 - drei
+		- 4 - vier
+		- 5 - funf
+		- 6 - sechs
+		- 7 - sieben
+		- 8 - acht
+		- 9 - neun
+		- 10 - zehn
+	- **eleven to twenty**
+		- 11 - elf
+		- 12 - zwolf
+		- 13 - dreizehn
+		- 14 - vierzehn
+		- 15 - funfzehn
+		- 16 - sechzehn
+		- 17 - siebzehn
+		- 18 - achtzehn
+		- 19 - neunzehn
+		- 20 - zwanzig
+- ## German Learning Method
+	- lvl 1: Mindset
+	- lvl 2: Comprehensive Input (Listen and read German)
+		- youtube: easy german, deutsche welle
+	- lvl 3: Compound Words, Practice sentences
+	- lvl 4: copy german accent
+	- lvl 5: learn, review, listen
