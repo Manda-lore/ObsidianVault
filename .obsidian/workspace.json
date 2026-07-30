@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "2026-07-28"
             }
-          },
-          {
-            "id": "6f25891f668a1814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,10 +210,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f25891f668a1814",
+  "active": "f00a9f89978cb2a7",
   "lastOpenFiles": [
-    "journals/2026-07-28.md",
     "conflict-files-obsidian-git.md",
+    "journals/2026-07-28.md",
     "journals/2026-07-30.md",
     "pages/React Crash Course.md",
     "pages/MySQL Crash Course.md",
