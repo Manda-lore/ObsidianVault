@@ -52,3 +52,26 @@ const [searchQuery, setSearchQuery] = useState("");
 	<App />
 </BrowserRouter>
 ```
+# Linking pages in Navbar / Creating navbar in react
+- Create a Navbar.jsx and use the following example
+```reactjs
+import { Link } from "react-router-dom";
+
+function NavBar() {
+  return (
+    <>
+      <nav className="navbar">
+        <div className="navbar-brand">
+        <Link to={'/'}>Movie Search </Link>
+        </div>
+        <div className="navbar-links">
+          <Link to={'/'} className="nav-link">Home</Link>
+          <Link to={'/favorites'} className="nav-link">Favorites</Link>
+        </div>
+      </nav>
+    </>
+  );
+}
+
+export default NavBar;
+```
