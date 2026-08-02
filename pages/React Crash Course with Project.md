@@ -76,3 +76,10 @@ function NavBar() {
 
 export default NavBar;
 ```
+# Use Effect
+- Use effect is similar to a trigge,
+```react
+import { useEffect } from "react"
+useEffect( () => {} [])
+```
+- Variables but inside `[]` act as trigger and rerun the function defined in `() => {}`
