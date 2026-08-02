@@ -3,6 +3,7 @@
 	- frontend - react
 	- Api - themoviedb
 		- Api-key: e547e17d4e91f3e62a571655cd1ccaff
+		- Alt key for imdb: 966c4f4f
 # Introduction to react
 - React is a hybrid of javascript and html and uses jsx file extension
 - React uses components to build good looking interface
