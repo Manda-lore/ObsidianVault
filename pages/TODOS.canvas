@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"061900dfcb22d78d","type":"text","text":"# LATER\n\n```tasks\nstatus.type is CANCELLED\n```","x":20,"y":-420,"width":480,"height":740},
+		{"id":"8988e9f8d4e06b08","type":"text","text":"# NOW\n\n```tasks\nnot done\ngroup by path\nsort by priority\nsort by due\n```","x":-520,"y":-420,"width":480,"height":740}
+	],
+	"edges":[]
+}
