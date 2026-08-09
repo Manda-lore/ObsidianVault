@@ -1,5 +1,5 @@
 # Project Idea
-- [/] Movie Search
+- [x] Movie Search ✅ 2026-08-05
 	- frontend - react
 	- Api - themoviedb
 		- Api-key: e547e17d4e91f3e62a571655cd1ccaff
