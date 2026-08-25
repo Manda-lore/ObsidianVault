@@ -2,10 +2,11 @@
 
 ```tasks
 not done
-group by path
+tags include #todo
+group by tags
 sort by priority
 sort by due
 ```
 ---
 
-[[TODOS.canvas]]
+- [ ] Example todo #todo

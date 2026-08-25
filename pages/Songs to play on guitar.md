@@ -1,8 +1,3 @@
----
-tags:
-  - "#guitarcover"
----
-
 - [ ] chammak chello
 - [ ] barbie girl
 - [ ] chicago
